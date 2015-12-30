@@ -1,0 +1,82 @@
+---
+layout: default
+---
+
+<div class="post">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <span class="post-date">{{ page.date | date_to_string }}</span>
+    {{ content }}
+
+    <!-- sharing icons zone -->
+    <div class="sharing">
+        <br/>
+        <br/>
+        <ul>
+            <li><i class="fa fa-share-square-o"></i></li>
+            {% if site.sharing.twitter %}
+            <li><a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Twitter">
+                <i class="fa fa-twitter-square"></i>
+            </a></li>
+            {% endif %}
+
+            {% if site.sharing.linkedin %}
+            <li><a href="http://www.linkedin.com/shareArticle?url={{ site.url }}{{ page.url }}&title={{ page.title }}" rel="nofollow" target="_blank" title="Share on LinkedIn">
+                <i class="fa fa-linkedin-square"></i>
+            </a></li>
+            {% endif %}
+
+            {% if site.sharing.facebook %}
+            <li><a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">
+                <i class="fa fa-facebook-square"></i>
+            </a></li>
+            {% endif %}
+
+            {% if site.sharing.google_plus %}
+            <li><a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Google+">
+                <i class="fa fa-google-plus-square"></i>
+            </a></li>
+            {% endif %}
+
+            {% if site.sharing.reddit %}
+            <li><a href="http://reddit.com/submit?url={{ site.url }}{{ page.url }}&title={{ page.title }}" rel="nofollow" target="_blank" title="Share on Reddit">
+                <i class="fa fa-reddit-square"></i>
+            </a></li>
+            {% endif %}
+        </ul>
+    </div>
+
+    <!-- Disque comment zone -->
+    {% if page.comments %}
+    <div id="disqus_thread"></div>
+    <script>
+     var disqus_config = function () {
+         this.page.url = '{{ site.url }}{{ page.url }}';
+         this.page.identifier = "{{ page.url }}}";
+     };
+     (function() {
+         var d = document, s = d.createElement('script');
+
+         s.src = '//xixiaosblog.disqus.com/embed.js';
+
+         s.setAttribute('data-timestamp', +new Date());
+         (d.head || d.body).appendChild(s);
+     })();
+    </script>
+    {% endif %}
+</div>
+
+<!-- <div class="related"> -->
+<!--   <h2>Related Posts</h2> -->
+<!--   <ul class="related-posts"> -->
+<!--     {% for post in site.related_posts limit:3 %} -->
+<!--       <li> -->
+<!--         <h3> -->
+<!--           <a href="{{ post.url }}"> -->
+<!--             {{ post.title }} -->
+<!--             <small>{{ post.date | date_to_string }}</small> -->
+<!--           </a> -->
+<!--         </h3> -->
+<!--       </li> -->
+<!--     {% endfor %} -->
+<!--   </ul> -->
+<!-- </div> -->

@@ -1,0 +1,46 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+gems:             [jekyll-paginate, rouge, jekyll-gist, jekyll-watch]
+
+# Permalinks
+permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            Xi Xiao's
+tagline:          'A Jekyll blog'
+url:              https://blog.xixiao.info
+baseurl:          /
+
+author:
+  name:           'Xi Xiao'
+  url:            https://xixiao.info
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+
+post:
+  template: _post.txt
+  extension: md
+
+draft:
+  template: _draft.txt
+  extension: md
+
+page:
+  template: _page.txt
+  extension: md
+
+# Post sharing icons
+sharing:
+    twitter: true
+    linkedin: true
+    facebook: true
+    google_plus: true
+    reddit: true
