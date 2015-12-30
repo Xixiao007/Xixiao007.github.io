@@ -1,3 +1,3 @@
 # blog
 
-Dockertechie.com website is a docker technology dedicated blog.
+[Dockertechie.com](dockertechie.com) is a docker technology dedicated blog.
