@@ -8,9 +8,10 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            Xi Xiao's
+title:            Docker Techie
 tagline:          'A Jekyll blog'
-url:              https://blog.xixiao.info
+description:      Dedicated for docker container technology
+url:              https://dockertechie.com
 baseurl:          /
 
 author:
@@ -23,7 +24,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/Xixiao007
 
 post:
   template: _post.txt

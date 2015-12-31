@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Xi Xiao
+title: About Author
 ---
 
 
