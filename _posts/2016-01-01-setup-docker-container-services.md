@@ -11,7 +11,7 @@ I will go through the setups for **4 docker containers** in five threads.
 
 1. DynamicDNS using ddclient - *`coming soon!`*
 2. OpenVPN Server - *`coming soon!`*
-3. Nginx Reverse Proxy, *with free-of-charge [letsencrypt](https://letsencrypt.org/) ssl certificate installed* - *`coming soon!`*
+3. Nginx Reverse Proxy, *with free-of-charge [letsencrypt](https://letsencrypt.org/) ssl certificates installed* - *`coming soon!`*
 4. Multiple Jekyll Blogs - *`coming soon!`*
 5. Personal website - *`coming soon!`*
 
