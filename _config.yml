@@ -9,7 +9,7 @@ permalink:        pretty
 
 # Setup
 title:            Docker Techie
-tagline:          'A Jekyll blog'
+tagline:          'Docker Technology'
 description:      Dedicated for docker container technology
 url:              https://dockertechie.com
 baseurl:          /
