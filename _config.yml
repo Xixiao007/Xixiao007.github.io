@@ -8,10 +8,11 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            Xi Xiao's
-tagline:          'Xi Xiao Blog'
-url:              https://blog.xixiao.info
-baseurl:          /
+title:            '@DockerTechie'
+tagline:          ' - Docker Technology'
+description:      Dedicated for docker container technology
+url:              https://dockertechie.com
+baseurl:          ""
 
 author:
   name:           'Xi Xiao'
@@ -23,7 +24,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/Xixiao007
 
 post:
   template: _post.txt
