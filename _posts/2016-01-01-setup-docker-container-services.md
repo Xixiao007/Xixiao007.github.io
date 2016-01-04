@@ -23,4 +23,4 @@ The final topology diagram is showed as below. We will eventually have:
 - a personal website behind nginx reverse proxy
 
 
-![my docker microservices](http://i.imgur.com/CnI8cyq.png?1 "my docker microservices")
+![my docker microservices](//i.imgur.com/CnI8cyq.png?1 "my docker microservices")
