@@ -4,5 +4,13 @@ layout: post
 comments: true
 ---
 
+- docker/jekyll cannot host multiple blogs
+- nginx image
+- jekyll image for build only in local and remote.
+- ngconfig files to vhost two blogs
+- service file blog.conf
+- under nginx proxy?
+- https letsencrypt
 
-set site folder permission `chmod 755`
+
+- improve config files
