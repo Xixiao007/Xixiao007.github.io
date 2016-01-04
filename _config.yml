@@ -8,8 +8,8 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            '@DockerTechie'
-tagline:          ' - Docker Technology'
+title:            '@DT'
+tagline:          ' - DockerTechie'
 description:      Dedicated for docker container technology
 url:              https://dockertechie.com
 baseurl:          ""

@@ -79,3 +79,19 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
+
+.archive-date {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #ccc;
+}
+
+@media (min-width: 34rem) {
+  .archive-item {
+    margin-bottom: .5rem;
+  }
+  .archive-date {
+    float: right;
+    margin-left: 1rem;
+  }
+}

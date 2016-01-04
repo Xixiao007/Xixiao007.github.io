@@ -18,5 +18,8 @@ title: Home
     <ul>
     {% capture year %}{{ currentyear }}{% endcapture %}
   {% endif %}
-        <a href="{{ post.url }}">{{ post.title }}</a></br>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <span class="archive-date">
+            <time">{{ post.date: | date: '%b %d, %Y' }}</time>
+        </span></br>
 {% endfor %}
