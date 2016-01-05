@@ -1,5 +1,5 @@
 ---
-title: "How to Dockerize Multiple Services in Ubuntu14.04 Server"
+title: "Dockerize Multiple Services in Ubuntu14.04 Server"
 layout: post
 tags: basic
 comments: true
