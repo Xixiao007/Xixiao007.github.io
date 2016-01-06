@@ -11,7 +11,7 @@ permalink:        pretty
 
 # Setup
 title:            '@DT'
-tagline:          ' - DockerTechie'
+tagline:          ' - blog for docker'
 description:      Dedicated for docker container technology
 url:              https://dockertechie.com
 baseurl:          ""
