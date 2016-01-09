@@ -6,7 +6,7 @@ comments: true
 
 
 <p class="message">
-This is part 3 of 5 in the series: <a href="/2016/01/01/setup-docker-container-services">Setup Docker Container Services</a>
+This is part 4 of 5 in the series: <a href="/2016/01/01/setup-docker-container-services">Setup Docker Container Services</a>
 </p>
 The entire series are:
 
