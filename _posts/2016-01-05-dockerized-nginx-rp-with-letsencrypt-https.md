@@ -109,6 +109,35 @@ CONTAINER ID        IMAGE                 COMMAND                  CREATED      
 800beee14cb5        jwilder/nginx-proxy   "/app/docker-entrypoi"   16 hours ago        Up 16 hours         0.0.0.0:80->80/tcp, 0.0.0.0:443->443/tcp   proxy
 {% endhighlight %}
 
+
+Auto Start RP Proxy when System is Up
+-------
+
+Once we ensured that RP docker containing is able to run correctly, we can add it into system upstart init daemon job as follow.
+
+Firstly, we use `sudo` permission to create a `proxy.conf` file in `/etc/init` path with the content:
+
+{% highlight conf %}
+description "Docker container for nginx proxy server"
+start on filesystem and started docker
+stop on runlevel [!2345]
+respawn
+script
+  exec docker run -p 80:80 -p 443:443 -v ssl-tsl-certificates-path:/etc/nginx/certs -v /var/run/docker.sock:/tmp/docker.sock:ro --rm --name proxy jwilder/nginx-proxy
+end script
+{% endhighlight %}
+
+Note. remember to alter `ssl-tsl-certificates-path` to the letsencrypt certificate path.
+
+Then we use #1 `ln -s` command to add a soft link into `/etc/init.d`, use #2 `service`command to kick off the service (note. make sure RP container was not already running by checking `docker ps`).
+{% highlight bash linenos%}
+ln -s /etc/init/proxy.conf /etc/init.d/proxy
+sudo service proxy start
+{% endhighlight %}
+
+Now if we run `docker ps` should display RP container is up. We can `docker stop` the container or reboot the system, and expect that the container will come back automatically.
+
+
 Conclusion
 -------
 
