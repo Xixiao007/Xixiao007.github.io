@@ -32,7 +32,7 @@ sudo apt-get update && sudo apt-get install ddclient
 Note. ddclient, with version older than or equal to 3.8.2, is unable to update multiple namecheap domains. That is why we take following steps to hack its binary file. If you have only one root domain to update, please ignore the next step (patch ddclient) and continue from subsequent step (manipulate ddclient.conf file.
 </p>
 
--  **Patch ddclient**
+-  **Patch ddclient to support multi-domain dynamic update**
 
 Stop ddclient service
 
