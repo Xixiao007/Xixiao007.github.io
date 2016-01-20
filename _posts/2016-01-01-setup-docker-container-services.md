@@ -12,10 +12,10 @@ This is part 1 of 5 in the series: <a href="/2016/01/01/setup-docker-container-s
 The entire series are:
 
 0. [Dockerize Multiple Services in Ubuntu14.04 Server]({% post_url 2016-01-01-setup-docker-container-services %})
-1. DynamicDNS using ddclient - *`coming soon!`*
+1. [ddclient - DNS Update for Multiple Domains]({% post_url 2016-01-12-dynamic-dns-setup-by-ddclient %})
 2. OpenVPN Server - *`coming soon!`*
 3. [Dockerized Nginx RP with Letsencrypt HTTPS]({% post_url 2016-01-05-dockerized-nginx-rp-with-letsencrypt-https %})
-4. Multi-domain websites - *`coming soon!`*
+4. [Nginx Docker - Hosting Multi-domain Static Websites]({% post_url 2016-01-20-nginx-docker-hosting-multi-domain-static-websites %})
 
 [Docker](https://www.docker.com/what-docker) is the main theme of this blog. It is the next generation cutting-edge hypervisor technology with many incredible powerful features. Among those features, *lightweight size*, *fast boot-up time*, and *isolation from host*, are key reasons for me to utilize docker in my personal Ubuntu server.
 
