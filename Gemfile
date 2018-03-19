@@ -1,4 +1,6 @@
 source 'https://rubygems.org'
+gem 'jekyll'
+gem 'json'
 gem 'jekyll-paginate'
 gem 'kramdown'
 gem 'rouge'

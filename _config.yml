@@ -3,22 +3,22 @@ markdown:         kramdown
 kramdown:
   input: GFM
 highlighter:      rouge
-gems:             [jekyll-paginate, rouge, jekyll-gist, jekyll-watch]
+plugins:             [jekyll-paginate, rouge, jekyll-gist, jekyll-watch]
 
 # Permalinks
 permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            '@DT'
-tagline:          ' - blog for docker'
-description:      Dedicated for docker container technology
-url:              https://dockertechie.com
+title:            '@Salesforce Blog'
+tagline:          ' - for learning journey'
+description:      Dedicated for learning Salesforce
+url:              http://blog.xixiao.info
 baseurl:          ""
 
 author:
   name:           'Xi Xiao'
-  url:            https://xixiao.info
+  url:            http://xixiao.info
 
 paginate:         5
 
