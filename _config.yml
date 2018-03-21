@@ -11,7 +11,7 @@ permalink:        pretty
 
 # Setup
 title:            '@Salesforce Blog'
-tagline:          ' - Xi Xiao's learning journey'
+tagline:          ' - by Xi Xiao'
 description:      Dedicated for learning Salesforce
 url:              http://blog.xixiao.info
 baseurl:          ""
