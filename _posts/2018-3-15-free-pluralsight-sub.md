@@ -1,5 +1,5 @@
 ---
-title: "3 month Pluralsight Subscription, free-of-charge!"
+title: "Pluralsight Subscription, free-of-charge!"
 layout: post
 tags: other
 comments: true
