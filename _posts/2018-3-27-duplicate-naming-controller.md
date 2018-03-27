@@ -4,12 +4,12 @@ layout: post
 tags: developer, lightning component
 comments: true
 ---
-## Lesson Learned
+# Lesson Learned
 
 TLTR.
 >Never use the same name for functions on both client side JavaScript controller and server side Apex controller.
 
-## Details
+# Details
 
 I created a Lightning Component (LC) to start with very simple functions as below:
 
@@ -76,7 +76,7 @@ After a hour or two stupid debugging, all of a sudden, I recalled that it was me
 
 Is this the root cause!? Yes, it is!
 
-### Thoughts
+# Thoughts
 
 Hopefully I won't make this mistake any longer.
 
