@@ -10,8 +10,8 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            '@Salesforce Blog'
-tagline:          ' - by <a href="http://xixiao.info/">Xi Xiao</a>'
+title:            'Salesforce Blog'
+tagline:          ' - <a href="http://xixiao.info/">@Xi Xiao</a>'
 description:      Dedicated for learning Salesforce
 url:              http://blog.xixiao.info
 baseurl:          ""
