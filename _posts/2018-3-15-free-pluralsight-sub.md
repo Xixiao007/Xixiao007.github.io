@@ -40,6 +40,6 @@ Here are steps (no bullshit no ads):
 
 We all know there is no free lunch. Microsoft might or might not pay to Pluralsight. I do not know.
 
-I guess---it is a joint strategy from Pluralsight and Microsoft to attact people to get use to use this service.
+I guess---it is a joint strategy from Pluralsight and Microsoft to attract people to get use to use this service.
 
 Alright, enjoy!
