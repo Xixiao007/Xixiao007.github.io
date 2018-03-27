@@ -1,21 +1,21 @@
 ---
-title: "Using PluralSight to Learn Salesforce"
+title: "Using Pluralsight to Learn Salesforce"
 layout: post
 tags: admin, developer
 comments: true
 ---
 
-# What is PluralSight?
+# What is Pluralsight?
 
-<img src="http://www.salesforceway.com/wp-content/uploads/2018/02/pluralsight-logo_w_500.jpg" alt="PluralSight" width="500" height="375" class="size-full wp-image-230" />
+<img src="http://www.salesforceway.com/wp-content/uploads/2018/02/pluralsight-logo_w_500.jpg" alt="Pluralsight" width="500" height="375" class="size-full wp-image-230" />
 
 One of excellent ways to learn IT stuff is to follow along coaching videos recorded by subject experts.
 
-After spending some time to google around and comparing between couple of online IT training video websites, I decided to purchase annual subscription of [PluralSight](https://www.pluralsight.com/).
+After spending some time to google around and comparing between couple of online IT training video websites, I decided to purchase annual subscription of [Pluralsight](https://www.pluralsight.com/).
 
 That was 4 years ago. Since then, I have been a continuous subscriber and never regretted its cost.
 
-I have seen PluralSight grown from a simple inventory of IT coaching videos to a trusted IT coaching service provider with massively diversified knowledge content. And many people working in IT had recommended it highly.
+I have seen Pluralsight grown from a simple inventory of IT coaching videos to a trusted IT coaching service provider with massively diversified knowledge content. And many people working in IT had recommended it highly.
 
 # What I have learned
 
@@ -27,7 +27,7 @@ Nowadays, Pluralsight has an amazing long list of [learning paths/topics](https:
 
 # Salesforce Courses
 
-Not a big surprise that Salesforce courses appear in PluralSight too.
+Not a big surprise that Salesforce courses appear in Pluralsight too.
 
 Here is the [search result](https://app.pluralsight.com/library/search?q=salesforce) by using "Salesforce" keyword. As of today, 35 courses avaiable already!
 
@@ -51,4 +51,4 @@ There are many other Salesforce related courses with topics like Workflow, Apex 
 
 Hopefully till here you are convinced to purchase it. So go there and grab your subscription now.
 
-Oh, don't forget to leave your comment how PluralSight helped you to advance your career!
+Oh, don't forget to leave your comment how Pluralsight helped you to advance your career!

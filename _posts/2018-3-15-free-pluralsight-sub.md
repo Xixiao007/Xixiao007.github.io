@@ -1,5 +1,5 @@
 ---
-title: "3 month PluralSight Subscription, free-of-charge!"
+title: "3 month Pluralsight Subscription, free-of-charge!"
 layout: post
 tags: other
 comments: true
@@ -8,7 +8,13 @@ comments: true
 
 If you don't know, `it is video learning platform that all developers should use`. 
 
-Need more words? Check here => [Why PluralSight]({% post_url 2018-3-05-pluralsight %}){:target="_blank"}.
+Need more words? Check here => [Why Pluralsight]({% post_url 2018-3-05-pluralsight %}){:target="_blank"}.
+
+## Salesforce developer?
+
+As of today, **41** Salesforce related courses are available, oh yet more are coming all the time.
+
+Hit here to see up-to-date info => [Salesforce search result in Pluralsight](https://www.pluralsight.com/search?q=salesforce){:target="_blank"}.
 
 ## Get 3 month free of charge
 
