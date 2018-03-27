@@ -31,7 +31,8 @@ Here are steps (no bullshit no ads):
 1. Browse to Micorsoft visual studio dev ensseital site => [here](https://www.visualstudio.com/dev-essentials/).
 2. Register a new account (I always use a valid email account though it might be optional).
 3. Under the `benefits` page, 3-month Pluralsight sub is at your hand. Screenshot below.
-4. Yes, there are other benifits too. You are welcome to take them all.
+4. Use a valid email address when activating Pluralsight service. You might wanna retrieve your password in future.
+4. Yes, there are other benifits under dev essential too. You are welcome to take them all.
 
 ![pluralsight]({{ "/assets/img/ms-dev.png" | absolute_url }})
 
