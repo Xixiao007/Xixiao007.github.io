@@ -1,7 +1,7 @@
 ---
 title: "Salesforce DX Cheat sheet"
 layout: post
-tags: developer
+tags: Salesforce
 comments: true
 ---
 

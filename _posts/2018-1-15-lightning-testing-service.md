@@ -1,7 +1,7 @@
 ---
 title: "Lightning Testing Service"
 layout: post
-tags: developer
+tags: Salesforce
 comments: true
 ---
 

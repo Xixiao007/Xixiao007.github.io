@@ -1,7 +1,7 @@
 ---
 title: "Using Pluralsight to Learn Salesforce"
 layout: post
-tags: admin, developer
+tags: Salesforce
 comments: true
 ---
 

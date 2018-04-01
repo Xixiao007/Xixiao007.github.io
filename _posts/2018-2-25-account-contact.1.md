@@ -1,7 +1,7 @@
 ---
 title: "Understand Accounts and Contacts in Salesforce"
 layout: post
-tags: admin
+tags: Salesforce
 comments: true
 ---
 

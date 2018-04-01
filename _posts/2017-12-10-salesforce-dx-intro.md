@@ -1,7 +1,7 @@
 ---
 title: "Salesforce DX Introduction"
 layout: post
-tags: developer
+tags: Salesforce
 comments: true
 ---
 

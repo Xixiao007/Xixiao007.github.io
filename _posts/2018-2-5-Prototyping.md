@@ -1,7 +1,7 @@
 ---
 title: "Prototyping Lightning Component, SFDX, LTS and Travis[1]"
 layout: post
-tags: developer
+tags: Salesforce
 comments: true
 ---
 

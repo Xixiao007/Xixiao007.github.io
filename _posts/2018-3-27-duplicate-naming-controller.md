@@ -1,7 +1,7 @@
 ---
 title: "Issue: controller functions with the same name"
 layout: post
-tags: developer, lightning component
+tags: Salesforce
 comments: true
 ---
 # Lesson Learned

@@ -1,7 +1,7 @@
 ---
 title: "Pluralsight Subscription, free-of-charge!"
 layout: post
-tags: other
+tags: Miscellaneous
 comments: true
 ---
 ## What is Pluralsight
