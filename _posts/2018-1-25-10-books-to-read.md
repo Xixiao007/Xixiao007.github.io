@@ -1,7 +1,7 @@
 ---
 title: "Ten books to read for every programmer"
 layout: post
-tags: Book review
+tags: Books
 comments: true
 ---
 

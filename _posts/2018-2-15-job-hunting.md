@@ -1,7 +1,7 @@
 ---
 title: "Software engineer job hunting skills"
 layout: post
-tags: Soft skills
+tags: Softskills
 comments: true
 ---
 
