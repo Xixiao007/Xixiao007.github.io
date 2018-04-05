@@ -11,7 +11,7 @@ permalink:        pretty
 
 # Setup
 title:            'Blog'
-tagline:          ' - <a href="http://xixiao.info/">@Xi Xiao</a>'
+tagline:          ' - <a href="http://xixiao.info/" target="_blank">@Xi Xiao</a>'
 description:      Dedicated for learning Salesforce
 url:              http://sf.xixiao.info
 baseurl:          ""
