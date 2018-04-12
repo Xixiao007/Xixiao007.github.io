@@ -21,5 +21,4 @@ What value I bring in in my video series below is to reveal how Git exactly work
 
 After watching these videos, you should have armed with solid understanding about Git and been able to quickly learn commands & tools in Git's ecosystem.
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=Y27gbUJAxZs&list=PLnHWvtMVpxAsnctqCJc6YIrfGQgI4cKNh" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y27gbUJAxZs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
