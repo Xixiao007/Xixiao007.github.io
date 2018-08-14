@@ -1,18 +1,74 @@
 ---
-title: "Useful tools in Git ecosystem"
+title: "Introduction to cryptographic hash function"
 layout: post
-tags: Salesforce
+tags: hash
 comments: true
 ---
 
-# Three useful tools in Git ecosystem
+# Hash Function
 
-This is the last episode in my 'How git works' video series. Hoepfully you have learned something useful along your software engineering journey.
+A hash function is a type of mathematical function with following 3 properties:
 
-In this clip, we are gonna talk about these 3 tools:
+- Takes an string input X with arbitrary length
+- Generate a fixed-length string output Y  (In Bitcoin, it is the SHA-256 Hash function)
+- Efficiently computable. This ease of computation is what give blockchains the property of being easily verifiable to prevent tampering. As we will see later, we can verify if a block is “authentic” in a blockchain by simply computing the hash of a block, which is a cost-effective operation (computation-wise).
 
-- git flow
-- tig
-- hub
+Lets' create a simple example: we build a hash function that takes input of any length, and spits out the first 2 characters as output. In this case, a "hello world" will result to "he" output and the computational complexity is also reasonably low.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o9HN5Ogjf94" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+# Cryptographic Hash Function
+
+On top of regular hash function properties, cryptographic hash function has 3 additional properties:
+
+## Collision Free
+
+A collision happens when a hash function maps two different inputs to the same output. Taken our simple example introduced above again. Both "Hello world" and "Helsinki" have the same output "he". So it is not collision free.  
+
+A good cryptographic hash function **in practice** is a one-one function, which means collision free. For every input, there is one unique output. Two different inputs cannot result in the same output.
+
+Pay attention that we said "in practice" above and it is important. A good cryptographic hash function has the property that is "nobody can find" two different input resulting in the same output. This means it is computationally infeasible to find a collision. 
+
+Example: MD5 function was assumed to be collision resistant but after a couple years people have found collisions. What is computationally costly in the past won’t be as much in the future.
+
+### How to find a collision? 
+
+It has been proven that if we try 2 to the 130 time randomly chosen input, 99.8% chance that 2 inputs collide. This method works no matter how the hash function is constructed. But it takes too long.
+
+Is there a smarter way? Some hash functions yes, some we don't know yet.
+
+How good a hash function is analyzed by checking the probability of more than one inputs having the same output. The lower the probability, the better the hash function.
+
+## Hiding
+
+If the input X has "spreads out" (high min-entropy) probability distribution, you cannot derive the input based on the output of the hash function.
+
+For example, if the information we are hashing is of the form "Alice pays Bob", "Bob pays Eve", then the input space is easily guessable to be of the form "Person1 pays Person2". And if the person names are finite, adversaries could build a look-up table to brute-force out the correct input.
+
+In order to hide the information, we construct a "R", whose probability distribution is very "spread out" in a large space. For example, a uniformly arbitrarily generated 256bit string.
+Given a hash function H, we will now write `H(x)` when we really mean `H(x)=H(r||x)=y` with the || symbol denoting concatenation. Now given y, it is infeasible to find x because there are too many combinations `r′||x′` to try out. Constructing a lookup table is now unfeasible.
+
+## Puzzle-friendly
+
+If the input X has “spreads out” (high min-entropy) probability distribution, there is no better way to target a specific output Y by trying random value of x.
+
+This property is used in the prove-of-work mining feature in Bitcoin which we will open a new thread to dig into in future.
+
+# Summary
+
+In summary, the hash function has these three properties.
+
+1. Takes as input a string of arbitrary length,
+2. Returns as output a string of fixed length,
+3. The output of the function is easy to compute relative to the length of the input.
+
+A cryptographic hash has these three additional properties.
+
+1. Collision free: we are very unlikely to find two inputs which give the same output, no matter how hard we try.
+2. Hiding: given a hash, it is infeasible to find its associated input and the optimal way to do so is to try every possibility uniformly randomly.
+3. Puzzle friendly: given a hash and part of the input that has been chosen in a suitably random way, the optimal way to find the rest of the input is still to try every possibility randomly. The difficulty of that task is exponential in the length of the hash, making it easy to adjust the difficulty of the puzzle by varying the restriction on the desired hash output.
+
+## Main reference resources
+
+- https://www.quora.com/What-is-hashing-in-simple-terms
+- https://www.coursera.org/learn/cryptocurrency/lecture/gFEJL/cryptographic-hash-functions 
+- http://homeowmorphism.com/articles/17/What-Is-A-Cryptographic-Hash 
+
