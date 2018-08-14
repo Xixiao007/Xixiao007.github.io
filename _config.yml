@@ -10,9 +10,9 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            'Salesforce Blog'
+title:            'Sketch Crypto Blog'
 tagline:          ' - <a href="http://xixiao.info/" target="_blank">@Xi Xiao</a>'
-description:      Dedicated for learning Salesforce
+description:      Dedicated for Crypto and Blockchain
 url:              http://blog.xixiao.info
 baseurl:          ""
 
