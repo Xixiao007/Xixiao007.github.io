@@ -10,9 +10,9 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            'Sketch Crypto Blog'
+title:            'Learning has fun'
 tagline:          ' - <a href="http://xixiao.info/" target="_blank">@Xi Xiao</a>'
-description:      Dedicated for Crypto and Blockchain
+description:      Record my learning journey
 url:              http://blog.xixiao.info
 baseurl:          ""
 
