@@ -5,9 +5,7 @@ tags: Salesforce
 comments: true
 ---
 
-I am spending time to go through [CRM related trailheads](https://trailhead.salesforce.com/trails/getting_started_crm_basics?trailmix_creator_id=00550000006yDdKAAU&trailmix_id=prepare-for-your-salesforce-administrator-credential) in order to both brush up my CRM understanding, such as Accounts and Contacts, and prepare for the admin certificate. 
-
-<img src="http://www.salesforceway.com/wp-content/uploads/2018/01/account-contact.png" alt="account-contact" width="491" height="203" class="alignnone size-full wp-image-216" />
+I am spending time to go through [CRM related trailheads](https://trailhead.salesforce.com/trails/getting_started_crm_basics?trailmix_creator_id=00550000006yDdKAAU&trailmix_id=prepare-for-your-salesforce-administrator-credential) in order to both brush up my CRM understanding, such as Accounts and Contacts, and prepare for the admin certificate.
 
 If CRM terms is also one of your weak points, I'd recommend you walk through those trailheads with me. It will definitely give you a whole better picture of important CRM terms used in the Salesforce sales cloud.
 
@@ -23,7 +21,7 @@ If we are doing business with individual person, the so called Business-to-Custo
 
 # Contacts
 
-**Contacts** is another important object in Sales Cloud. 
+**Contacts** is another important object in Sales Cloud.
 
 In addition to which companies we are doing business with, we want to know is who are working in those companies and how to reach them out. In Salesforce, the people who work at the accounts are called Contacts.
 

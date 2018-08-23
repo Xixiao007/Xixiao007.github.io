@@ -27,7 +27,6 @@ In this post series---2 articles in a row, I am gonna use this project to break 
 The source code stored in my prototyping project is merely the final version of the work. It is more intriguing and useful to understand how I reached this final version. Thus a mindmap below tells the story.
 
 ![mindmap]({{ "/assets/img/mindmap.png" | absolute_url }})
-<!-- <img src="http://www.salesforceway.com/wp-content/uploads/2018/01/mindmap-1024x561.png" alt="mindmap" width="680" height="373" class="alignnone size-large wp-image-178" /> -->
 
 ## Content in article 1
 
@@ -53,7 +52,7 @@ This trailhead project serves as a baseline for the following activities.
 
 The trailhead project above is done in the Developer Console. Developer Console is good for quick and dirty test, rather than real life projects.
 
-In this step, I started by re-creating all files by SFDX commands, such as create project, create lightning component file etc. What is SFDX? Check this <a href="http://www.salesforceway.com/2017/12/sfdx-intro/" rel="noopener" target="_blank">blog thread</a>
+In this step, I started by re-creating all files by SFDX commands, such as create project, create lightning component file etc.
 
 By doing so, the project file structure is re-arranged according to SFDX style. What's more, using SFDX helps us to automate the deploying process and integrate to any Continous Integration system. This benefit will not be visible in steps of this article but the subsequent one where Continous Integration is discused.
 
