@@ -17,5 +17,6 @@ I have read the news from time to time that People living in emerging markets wi
 6. It is illegal to trade by USD or any other foreign currency.
 7. Crypto mining was prohibited but not anymore.
 8. Crypto has a market price but often times people pay a lot more to obtain the basic living supplies such as food and water.
+9. People who never thought of leaving the country started crossing the boarder to Columbia and Brazil.
 
 I couldn't imagine what would have been the situation in Venezuela if crypto was not invented. Perhaps USD or Euro in spite of the existence of capital control law.
