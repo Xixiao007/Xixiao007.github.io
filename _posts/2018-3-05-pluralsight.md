@@ -7,8 +7,6 @@ comments: true
 
 # What is Pluralsight?
 
-<img src="http://www.salesforceway.com/wp-content/uploads/2018/02/pluralsight-logo_w_500.jpg" alt="Pluralsight" width="500" height="375" class="size-full wp-image-230" />
-
 One of excellent ways to learn IT stuff is to follow along coaching videos recorded by subject experts.
 
 After spending some time to google around and comparing between couple of online IT training video websites, I decided to purchase annual subscription of [Pluralsight](https://www.pluralsight.com/).
@@ -21,7 +19,7 @@ I have seen Pluralsight grown from a simple inventory of IT coaching videos to a
 
 It is literally too many to list down here. 
 
-Some examples: Javascript, Typescript, Continous Integration, DevOps, MachineLearning, C#, Testing automation, TDD, Jenkins, Visual Studio Code, <a href="http://www.salesforceway.com/2017/12/sfdx-intro/" rel="noopener" target="_blank">Salesforce DX</a>, <a href="http://www.salesforceway.com/2018/01/prototyping-salesforce-1/" rel="noopener" target="_blank">Salesforce Lighting Component</a>, SharePoint, SQL, No-SQL, Career planning...
+Some examples: Javascript, Typescript, Continous Integration, DevOps, MachineLearning, C#, Testing automation, TDD, Jenkins, Visual Studio Code, Salesforce DX, Salesforce Lighting Component, SharePoint, SQL, No-SQL, Career planning...
 
 Nowadays, Pluralsight has an amazing long list of [learning paths/topics](https://app.pluralsight.com/paths) to choose from. Check it out, there gotta be something you want to learn, right!?
 
