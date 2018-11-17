@@ -1,7 +1,7 @@
 ---
 title: "Create custom objects and fields by SFDX"
 layout: post
-tags: salesforce
+tags: Salesforce
 comments: true
 ---
 
