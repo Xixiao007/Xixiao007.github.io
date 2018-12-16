@@ -16,7 +16,3 @@ Below is a presentation from the community about naming. Enjoy!
 ## Meaningful Naming
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sbs3PrSp3h0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Slides
-
-[Download here](https://xixiao.page.link/monero)
