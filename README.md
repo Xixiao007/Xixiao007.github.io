@@ -1,3 +1,3 @@
-# blog.sketchcrypto.com
+# blog.xixiao.info
 
-A technical blog on sketchcrypto.com
+Personal blog
