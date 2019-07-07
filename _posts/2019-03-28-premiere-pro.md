@@ -1,7 +1,7 @@
 ---
 title: "Premiere Pro - video editing"
 layout: post
-tags: salesforce
+tags: Video
 comments: true
 ---
 
