@@ -1,5 +1,5 @@
 ---
-title: "Book -Flowers for Algernon"
+title: "Book - Flowers for Algernon"
 layout: post
 tags: Books
 comments: true
