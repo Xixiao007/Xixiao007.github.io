@@ -14,7 +14,7 @@ This book was recommended by an online book reading website in China. Frankly sp
 I spent 3-day spare time to finish it, the Chinese translated version, and I was really moved by the plot and the language Daniel used to write the story.
 Then I finished the original English version, and its audio book as well, in a row.
 
-I don't know how to express my feeling of reading this book without spoiling the plot. I can only say that I had all tears in my faces by reading it to the end.
+I don't know how to express my feeling of reading this book without spoiling the plot. I can only say that I had all tears on my face by reading it to the end.
 
 it is a book I highly recommend to everybody!
 
