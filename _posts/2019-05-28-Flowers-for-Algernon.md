@@ -17,3 +17,5 @@ Then I finished the original English version, and its audio book as well, in a r
 I don't know how to express my feeling of reading this book without spoiling the plot. I can only say that I had all tears in my faces by reading it to the end.
 
 it is a book I highly recommend to everybody!
+
+![Flowers-for-Algernon]({{ "/assets/img/FlowersForAlgernon.jpg" | absolute_url }})
