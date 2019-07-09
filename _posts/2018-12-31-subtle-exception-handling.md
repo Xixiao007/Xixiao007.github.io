@@ -1,7 +1,7 @@
 ---
 title: "Exception throwing test in Apex"
 layout: post
-tags: salesforce
+tags: Salesforce
 comments: true
 ---
 
