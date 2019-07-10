@@ -1,11 +1,11 @@
 ---
-title: "Useful shortkeys in IntelliJ - Illuminated Cloud"
+title: "Salesforce IDE - Illuminated Cloud"
 layout: post
 tags: Salesforce
 comments: true
 ---
 
-# IntelliJ and Illuminated Cloud
+# IntelliJ Idea and Illuminated Cloud
 
 I have used Vim, Emacs and Visual Studio. For Salesforce development, I am an active user of VSCode. But I wanna give IntelliJ Idea + Illuminated Cloud a try. Reasons:
 
