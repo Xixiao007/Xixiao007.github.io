@@ -26,3 +26,13 @@ Here is the list of keys I am learning:
 | Auto-indent line(s) | Ctrl + Alt + I | Cmd + Opt + I |
 | Reformat code | Ctrl + Alt + L | Cmd + Opt +  L|
 | Expand/collapse code block | Ctrl + NumPad+/- | Cmd + +/-|
+|Go to next/previous editor tab|Alt + Right/Left|Ctrl + Left/Right|
+|Go to implementation(s)|Ctrl + Alt + B |Cmd + Opt + B|
+|Go to previous/next member declaration|Alt + Up/Down |Ctrl + Up/Down|
+|File structure popup|Ctrl + F12 |Cmd + F12|
+|Insert Live Template|Ctrl + J|Cmd + J|
+|Rename|Shift + F6|Shift + F6|
+|Refactor this|Ctrl + Alt + Shift + T |Ctrl + T|
+|Extract Method	|trl + Alt + M |Cmd + Opt + M|
+|Extract Variable|Ctrl + Alt + V |Cmd + Opt + V|
+|Extract Constant |Ctrl + Alt + C |Cmd + Opt + C|
