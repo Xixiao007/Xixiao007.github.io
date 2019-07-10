@@ -21,5 +21,8 @@ Nevertheless, I decide to give it a try for one month or two and see how I like 
 
 Here is the list of keys I am learning:
 
+| Function | Win/Linux | MacOS |
+| --- | --- | ---|
 | Auto-indent line(s) | Ctrl + Alt + I | Cmd + Opt + I |
 | Reformat code | Ctrl + Alt + L | Cmd + Opt +  L|
+| Expand/collapse code block | Ctrl + NumPad+/- | Cmd + +/-|
