@@ -7,6 +7,8 @@ comments: true
 
 # The Hot Zone: A Terrifying True Story
 
+![The-hot-zone]({{ "/assets/img/hot-zone.jpg" | absolute_url }})
+
 [The Hot Zone](https://www.amazon.com/Hot-Zone-Terrifying-Story-Origins/dp/0385479565) is a nonfiction thriller by Richard Peterson.
 
 It is a book depicts the origins and incidents involving four types of ebola virus, which are in Bio-safety Level 4 agents, extremely dangerous to humans. How dangerous? Stronger symptoms and more high fatality rate than HIV.
@@ -17,4 +19,3 @@ From a higher perspective, I do see that human species also act like a dreadful 
 
 If you enjoy thriller story and want to know how horrifying ebola viruses are, this is a book for you.
 
-![The-hot-zone]({{ "/assets/img/hot-zone.jpg" | absolute_url }})
