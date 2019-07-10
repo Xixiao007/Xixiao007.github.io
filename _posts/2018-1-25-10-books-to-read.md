@@ -1,7 +1,7 @@
 ---
 title: "Ten books to read for every programmer"
 layout: post
-tags: Books
+tags: Book
 comments: true
 ---
 
@@ -55,7 +55,7 @@ I am looking forward to finish this book and apply things from it.
 
 Luckly, programmers have above-average income and comparatively lower unemployment rate than other industries. However, this does not necessarily mean we know and are aware of the importance of investing. In the contrast, I know there are many programmers do not invest a dime each month.
 
-We spent years to sharpen our engineering skills to get better paid, yet we don't want to set aside some time to get to know how "money makes money"? 
+We spent years to sharpen our engineering skills to get better paid, yet we don't want to set aside some time to get to know how "money makes money"?
 
 ## [Rich Dad Poor Dad: What The Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680011){:target="_blank"}
 
@@ -82,7 +82,7 @@ Finally, it is about software engineering and programming. There are many splend
 
 ## [Clean code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882){:target="_blank"}
 
-In my opinion, this is the best among series books of Uncle Bob's. I'm not saying other books of his aren't good, this **clean code** is exceptionally god damn good. 
+In my opinion, this is the best among series books of Uncle Bob's. I'm not saying other books of his aren't good, this **clean code** is exceptionally god damn good.
 
 The core concept in this book is to teach how to write easy-to-read code.
 
@@ -96,7 +96,7 @@ I have only read 50+ pages---this is why I am not a good programmer (yet).
 
 ## [Working Effectively with Legacy Code](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052){:target="_blank"}
 
-This book is recommended by Uncle Bob, and it has extraordinary good rating in Amazon. 
+This book is recommended by Uncle Bob, and it has extraordinary good rating in Amazon.
 
 Every programmer needs to read code written by others from time to time, but few is armed with the proper skill to refactor legacy code without introdcing new bugs.
 
@@ -116,6 +116,6 @@ The authro John Sonmez is my idol. Software engineer is just one of many hats he
 
 # Closing
 
-These books I (will) read repeatedly in order to stamp as much knowledge as possible to my brain. There are yet other books constantly adding to the list. 
+These books I (will) read repeatedly in order to stamp as much knowledge as possible to my brain. There are yet other books constantly adding to the list.
 
 What books do you read? Share them in the commenting zone below.

@@ -1,7 +1,7 @@
 ---
 title: "ddclient - DNS Update for Multiple Domains"
 layout: post
-tags: tooling
+tags: Tool
 comments: true
 ---
 

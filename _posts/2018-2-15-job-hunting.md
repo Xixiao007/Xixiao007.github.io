@@ -1,7 +1,7 @@
 ---
 title: "Software engineer job hunting skills"
 layout: post
-tags: Softskills
+tags: Softskill
 comments: true
 ---
 
@@ -11,7 +11,7 @@ We, as software engineers, are good at crafting binaries, writing code, fixing b
 
 No doubt, majority of us---including me---suck drastically at negotiate better salary when hunting a job. We have no idea what to do but accept a mediocre salary. Day in day out we polish our engineering skills, yet totally ignore soft skills---such as salary negotiation skills---that are essential to keep us on the right career track and advance faster in long run.
 
-In one of our Helsinki Chinese IT Pro meetup events, ~20 software engineers were assembled voluntarily and openly discuss the topic of how to hunt jobs as a software engineer. From this session, I literally learned a lot. 
+In one of our Helsinki Chinese IT Pro meetup events, ~20 software engineers were assembled voluntarily and openly discuss the topic of how to hunt jobs as a software engineer. From this session, I literally learned a lot.
 
 In order to help more software engineers, I made this video to go through the most important points that were discussed.
 

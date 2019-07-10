@@ -1,7 +1,7 @@
 ---
 title: "Book - The Hot Zone"
 layout: post
-tags: Books
+tags: Book
 comments: true
 ---
 

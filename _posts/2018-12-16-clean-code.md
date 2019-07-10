@@ -1,7 +1,7 @@
 ---
 title: "[Video] Clean Code - Naming"
 layout: post
-tags: programming
+tags: Programming
 comments: true
 ---
 

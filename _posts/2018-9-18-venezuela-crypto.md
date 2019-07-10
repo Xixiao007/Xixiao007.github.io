@@ -1,7 +1,7 @@
 ---
 title: "Crypto usage in Venezuela"
 layout: post
-tags: crypto
+tags: Crypto
 comments: true
 ---
 

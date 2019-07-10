@@ -1,7 +1,7 @@
 ---
 title: "Aninated video - cryto history"
 layout: post
-tags: crypto
+tags: Crypto
 comments: true
 ---
 

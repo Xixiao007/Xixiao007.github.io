@@ -1,7 +1,7 @@
 ---
 title: "Book - Flowers for Algernon"
 layout: post
-tags: Books
+tags: Book
 comments: true
 ---
 
