@@ -5,9 +5,9 @@ tags: Salesforce
 comments: true
 ---
 
-I have used Vim, Emacs and Visual Studio. For Salesforce development, I am an active user of VSCode. But I wanna give IntelliJ Idea + Illuminated Cloud a try. Reasons:
+I have used Vim, Emacs and Visual Studio. For Salesforce development, I am an active user of VSCode. But I wanna give `IntelliJ Idea + Illuminated Cloud` a try. Reasons:
 
-1. Many developers are fond of using IntelliJ + Illuminated Cloud, I assume there must be some cool features that make them addicting, which I may never experience in VSCode.
+1. Many developers are fond of using `IntelliJ + Illuminated Cloud`, I assume there must be some cool features that make them addicting, and I may never experience in VSCode.
 
 2. I had a chat with the author of Illuminated Cloud, Scott Wells, in my little [podcast](http://salesforceway.com). I enjoyed the conversation and admired how he dedicated his time on continuously polishing this tool.
 
