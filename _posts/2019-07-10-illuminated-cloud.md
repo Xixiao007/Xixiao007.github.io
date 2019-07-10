@@ -15,7 +15,7 @@ I have used Vim, Emacs and Visual Studio. For Salesforce development, I am an ac
 
 3. IntelliJ has a `IdeaVim` which simulates Vim. I figured out most of vim keys can be seamlessly used in IntelliJ, which shortens drastically my hotkey learning curve.
 
-Therefore, I decided to give the combination of IntelliJ Idea and Illuminated Cloud a try for one month or two and see how it goes. After all, I have learned Vim and Emacs the hard way, learning one more modern IDE should be over difficult, should it?
+Therefore, I decided to give the combination of IntelliJ Idea and Illuminated Cloud a try for one month or two and see how it goes. After all, I have learned Vim and Emacs the hard way, learning one more modern IDE shouldn't be overly difficult, isn't it?
 
 # Often used shortkeys
 
