@@ -1,5 +1,5 @@
 ---
-title: "Premiere Pro - video editing"
+title: "Short Video Footage"
 layout: post
 tags: Video
 comments: true

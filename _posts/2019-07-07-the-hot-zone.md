@@ -1,5 +1,5 @@
 ---
-title: "Book - The Hot Zone"
+title: "The Hot Zone"
 layout: post
 tags: Book
 comments: true

@@ -1,5 +1,5 @@
 ---
-title: "Video - song mv"
+title: "Song MV"
 layout: post
 tags: Video
 comments: true
