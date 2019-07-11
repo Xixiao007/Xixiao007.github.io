@@ -19,10 +19,18 @@ title: Home
     {% capture year %}{{ currentyear }}{% endcapture %}
   {% endif %}
     <div class="archive-item">
-        {% if post.tags contains "Crypto" %}
+        {% if post.tags contains "Salesforce" %}
+        <i class="fa fa-cloud" aria-hidden="true"></i>
+        {% elsif post.tags contains "Video" %}
+        <i class="fa fa-video-camera" aria-hidden="true"></i>
+        {% elsif post.tags contains "Crypto" %}
         <i class="fa fa-money" aria-hidden="true"></i>
         {% elsif post.tags contains "Book" %}
         <i class="fa fa-book" aria-hidden="true"></i>
+        {% elsif post.tags contains "Programming" %}
+        <i class="fa fa-code" aria-hidden="true"></i>
+        {% else %}
+        <i class="fa fa-pencil-square-o" aria-hidden="true"></i>
         {% endif %}
         <a href="{{ post.url }}">{{ post.title }}</a>
         <span class="archive-date">
