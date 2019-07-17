@@ -8,8 +8,13 @@ title: Home
   Displays a list of posts broken down by year.
 {% endcomment %}
 
-<i class="fa fa-cloud" aria-hidden="true"></i>Test
-<i class="fa fa-video-camera" aria-hidden="true"></i>Test2
+Icons:
+<i class="fa fa-cloud" aria-hidden="true"></i> - Salesforce |
+<i class="fa fa-book" aria-hidden="true"></i> - Book |
+<i class="fa fa-btc" aria-hidden="true"></i> - Crypto |
+<i class="fa fa-code" aria-hidden="true"></i> - Programming |
+<i class="fa fa-pencil-square-o" aria-hidden="true"></i> - Misc
+
 {% for post in site.posts %}
   {% capture currentyear %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% if currentyear != year %}
