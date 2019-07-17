@@ -31,6 +31,6 @@ Here is the list of keys I am learning:
 |Insert Live Template|Ctrl + J|Cmd + J|
 |Rename|Shift + F6|Shift + F6|
 |Refactor this|Ctrl + Alt + Shift + T |Ctrl + T|
-|Extract Method	|trl + Alt + M |Cmd + Opt + M|
+|Extract Method	|Ctrl + Alt + M |Cmd + Opt + M|
 |Extract Variable|Ctrl + Alt + V |Cmd + Opt + V|
 |Extract Constant |Ctrl + Alt + C |Cmd + Opt + C|
