@@ -8,6 +8,8 @@ title: Home
   Displays a list of posts broken down by year.
 {% endcomment %}
 
+<i class="fa fa-cloud" aria-hidden="true"></i>Test
+<i class="fa fa-video-camera" aria-hidden="true"></i>Test2
 {% for post in site.posts %}
   {% capture currentyear %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% if currentyear != year %}
