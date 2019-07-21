@@ -11,7 +11,7 @@ English is not my native language, I always struggle to put words in the right o
 
 Actually I am improving podcast hosting skills, I am improving youtube video skills, video editing skills, but not writing, not at all.
 
-I finally, yesterday, made my 2-year goals, a side hustle, a big goal for me. They are:
+I finally, yesterday, made my 1-year goals, a side hustle, a big goal for me. They are:
 
 - one podcast episode per week
 - one youtube video per week
@@ -32,4 +32,4 @@ What are challenging points? These are what I can think of in addition to persis
 
 Btw, this also means my spare time schedule changes. A lot of entertaining time, which was already much less comparing to before, will be cut off.
 
-Nevertheless, these are the compensations I agreed with myself, so I will stick to my decision and do the side hustling for 2 years!
+Nevertheless, these are the compensations I agreed with myself, so I will stick to my decision and do the side hustling for 1 years!
