@@ -10,9 +10,9 @@ permalink:        pretty
 # relative_permalinks: true
 
 # Setup
-title:            'Learning has fun'
+title:            'No backspacing blog'
 tagline:          ' - <a href="http://xixiao.info/" target="_blank">@Xi Xiao</a>'
-description:      Record my learning journey
+description:      Writing without refactoring
 url:              http://blog.xixiao.info
 baseurl:          ""
 
